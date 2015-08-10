@@ -1,0 +1,8 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\asyncawaitExample\bin\Release\asyncawaitExample.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\asyncawaitExample\obj\Release\Example.Form1.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\asyncawaitExample\obj\Release\asyncawaitExample.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\asyncawaitExample\obj\Release\asyncawaitExample.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\asyncawaitExample\bin\Release\asyncawaitExample.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\asyncawaitExample\bin\Release\asyncawaitExample.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\asyncawaitExample\obj\Release\asyncawaitExample.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\asyncawaitExample\obj\Release\asyncawaitExample.pdb

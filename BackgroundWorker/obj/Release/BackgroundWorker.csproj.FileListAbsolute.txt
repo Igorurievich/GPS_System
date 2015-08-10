@@ -1,0 +1,1 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\BackgroundWorker\bin\Release\BackgroundWorker.exe.config

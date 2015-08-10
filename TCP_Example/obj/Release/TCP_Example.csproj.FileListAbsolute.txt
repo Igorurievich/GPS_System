@@ -1,0 +1,9 @@
+C:\Users\Игорь\documents\visual studio 2013\Projects\TCP_Example\TCP_Example\bin\Release\TCP_Example.exe.config
+C:\Users\Игорь\documents\visual studio 2013\Projects\TCP_Example\TCP_Example\bin\Release\TCP_Example.exe
+C:\Users\Игорь\documents\visual studio 2013\Projects\TCP_Example\TCP_Example\bin\Release\TCP_Example.pdb
+C:\Users\Игорь\documents\visual studio 2013\Projects\TCP_Example\TCP_Example\bin\Release\FirebirdSql.Data.UnitTests.dll
+C:\Users\Игорь\documents\visual studio 2013\Projects\TCP_Example\TCP_Example\bin\Release\nunit.framework.dll
+C:\Users\Игорь\documents\visual studio 2013\Projects\TCP_Example\TCP_Example\bin\Release\nunit.framework.xml
+C:\Users\Игорь\documents\visual studio 2013\Projects\TCP_Example\TCP_Example\obj\Release\TCP_Example.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\documents\visual studio 2013\Projects\TCP_Example\TCP_Example\obj\Release\TCP_Example.exe
+C:\Users\Игорь\documents\visual studio 2013\Projects\TCP_Example\TCP_Example\obj\Release\TCP_Example.pdb

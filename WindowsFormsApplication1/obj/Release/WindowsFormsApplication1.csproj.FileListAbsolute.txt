@@ -1,0 +1,12 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\WindowsFormsApplication1\obj\Release\BackgroundWorkerSimple.Form1.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\WindowsFormsApplication1\bin\Release\FirebirdSql.Data.UnitTests.dll
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\WindowsFormsApplication1\bin\Release\nunit.framework.dll
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\TCP_Example\WindowsFormsApplication1\bin\Release\nunit.framework.xml
