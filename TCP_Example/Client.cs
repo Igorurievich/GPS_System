@@ -1,22 +1,13 @@
-﻿using TCP_Example;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using System.Net;
 using System.Net.Sockets;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading;
-using System.Threading.Tasks;
-using System.Globalization;
-using System.Runtime.InteropServices;
 using FirebirdSql.Data.FirebirdClient;
 using System.Data;
 
 namespace TCP_Example
 {
-    
+
     class Client
     {
         static Dictionary<Int64, bool> Dictionary_ = new Dictionary<Int64, bool>();
@@ -54,6 +45,7 @@ namespace TCP_Example
                     catch (Exception ex)
                     {
                         Console.WriteLine(ex.Message);
+                        break;
                     }
                     Console.WriteLine("Client: " + Msg.IMEI + " connected!");
                     //foreach (KeyValuePair<Int64, bool> kvp in Dictionary)
@@ -92,17 +84,19 @@ namespace TCP_Example
                             {
                                 if (InvalidMsg.Count > 0)
                                 {
-                                    Int64 AVGLongitude = 0;
-                                    Int64 AVGLatitude = 0;
+                                    Int32 AVGLongitude = 0;
+                                    Int32 AVGLatitude = 0;
                                     DateTime TempDateTime;
                                     TempDateTime = InvalidMsg.Last().DTime;
-                                    foreach (var item in InvalidMsg)
-                                    {
-                                        AVGLongitude += item.Longitude;
-                                        AVGLatitude += item.Latitude;
-                                    }
-                                    AVGLongitude = AVGLongitude / InvalidMsg.Count;
-                                    AVGLatitude = AVGLatitude / InvalidMsg.Count;
+                                    //foreach (var item in InvalidMsg)
+                                    //{
+                                    //    AVGLongitude += item.Longitude;
+                                    //    AVGLatitude += item.Latitude;
+                                    //}
+                                    //AVGLongitude = AVGLongitude / InvalidMsg.Count;
+                                    //AVGLatitude = AVGLatitude / InvalidMsg.Count;
+                                    AVGLongitude = InvalidMsg.Last().Longitude;
+                                    AVGLatitude = InvalidMsg.Last().Latitude;
                                     DataBaseSendData(Msg.IMEI, TempDateTime, (Int32)AVGLatitude, (Int32)AVGLongitude, InvalidMsg.Last().Speed);
                                     InvalidMsg.Clear();
                                 }

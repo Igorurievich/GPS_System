@@ -1,18 +1,6 @@
-﻿using TCP_Example;
-using System;
-using System.Collections.Generic;
-using System.IO;
+﻿using System;
 using System.Linq;
-using System.Net;
-using System.Net.Sockets;
 using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading;
-using System.Threading.Tasks;
-using System.Globalization;
-using System.Runtime.InteropServices;
-using FirebirdSql.Data.FirebirdClient;
-using System.Data;
 
 namespace TCP_Example
 {
